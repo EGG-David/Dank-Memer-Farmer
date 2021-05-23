@@ -1,6 +1,6 @@
 {
-	"token": "Your Discord Token",
-	"accID": "Your Discord Id",
+	"token": "Your Discord Token Here",
+	"accID": "Your Discord Id Here",
 
 	"autoBeg": "enabled",
 	"autoCandy": "disabled",
